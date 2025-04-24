@@ -4,8 +4,6 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 
-from email.utils import formataddr #发件人信息
-
 
 # 发件人邮箱配置
 sender_email = '1907077582@qq.com'
